@@ -27,7 +27,7 @@ ISTQB Сертификация. Опыт сдачи | статья | http://juli
 Азы тестирования подробно и доходчиво | Статьи | http://testbase.ru/ | начинающим
 Видеолекция М.Поляруша о локаторах  | видео | https://www.youtube.com/watch?v=ahhaMbjqrxM&t=2157s | автоматизаторам
 Краткая шпаргалка по всем командам Git | статья | http://rogerdudler.github.io/git-guide/index.ru.html | автоматизаторам
-Материалы для самоподготовки | статья | [link!](https://training.by/News/Details/94/%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B_%D0%B4%D0%BB%D1%8F_%D1%81%D0%B0%D0%BC%D0%BE%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B8_%D0%B4%D0%BB%D1%8F_%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D1%89%D0%B8%D0%BA%D0%BE%D0%B2_%D0%B8_%D0%BD%D0%B5_%D1%82%D0%BE%D0%BB%D1%8C%D0%BA%D0%BE) | всем
+Материалы для самоподготовки | статья | [link](https://training.by/News/Details/94/%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B_%D0%B4%D0%BB%D1%8F_%D1%81%D0%B0%D0%BC%D0%BE%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B8_%D0%B4%D0%BB%D1%8F_%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D1%89%D0%B8%D0%BA%D0%BE%D0%B2_%D0%B8_%D0%BD%D0%B5_%D1%82%D0%BE%D0%BB%D1%8C%D0%BA%D0%BE) | всем
 Selenium для Python (Почти полное руководство) | статья | https://habrahabr.ru/post/248559/ | Автоматизаторам
 Как протестировать поле логина и пароля. | статья | https://testitquickly.com/2009/09/09/vvodeste-loginu-la-adnaklassni6i/ | всем
 Пример тест плана | пример тест-плана | https://ru.scribd.com/document/39391857/TestPlanTemplateV1-0 | всем
