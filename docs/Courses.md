@@ -16,7 +16,7 @@ Codecademy | каталог курсов | https://www.codecademy.com/apis | в�
 Интерактивный учебник по SQL (бесплатный) | учебник | http://www.sql-tutorial.ru/ | всем
 Datamonkey (платный) | учебник | http://datamonkey.pro/ | всем
 Тесты на знание сферы тестирования и QA | тесты | http://www.quizful.net/test/quality-assurance-basics | всем
-|  | http://www.quizful.net/test/software_testing_basics |
+Тесты на знание сферы тестирования и QA | тесты | http://www.quizful.net/test/software_testing_basics | всем
 Каталог курсов | каталог курсов | http://www.luxoft-training.ru/training/katalog_kursov/ | всем
 Английский за 16 часов с Дмитрием Петровым | курс  | https://tvkultura.ru/brand/show/brand_id/14505/ | всем
 Задачи для тестирования | задачи | http://testingchallenges.thetestingmap.org | всем
