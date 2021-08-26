@@ -11,11 +11,21 @@ Roadmap to becoming a quality assurance engineer  in 2021
 * Блоги [подробнее](docs/Blogs.md)
 * Инструменты [подробнее](docs/Tools.md)
 
+Направления развития QA инженера
+
+![image](./img/QA_snowflake.jpg)
+
+========================================================================
+
+Web тестирование 
+
+![image](./img/webtesting_head.jpg)
+
 Теоретическая часть
 
-![image1](./img/web_qa_theory.jpg)
+![image](./img/webtesting_theory.jpg)
 
 Практические навыки
 
-![image1](./img/web_qa_har_skills.jpg)
+![image](./img/webtesting_technical_skills.jpg)
 
